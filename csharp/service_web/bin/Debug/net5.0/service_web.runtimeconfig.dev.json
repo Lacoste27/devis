@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tsiory\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tsiory\\.nuget\\packages"
+    ]
+  }
+}

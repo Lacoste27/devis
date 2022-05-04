@@ -1,0 +1,21 @@
+Devis panneau solaire :
+    - Swing : 
+        + Misy liste batterie ( 6V , 1000 A ), Misy liste panneau ( 600w), Misy prix unitaire
+        + Misy appareil amin'ny gauche :   
+            * Omena ny nom 
+            * Utilisation quotidienne  = heure debut sy heure fin 
+            * Quantite miasa
+            * Puissance
+
+        + Afaka mametraka appareil hafa :
+            * Ampoule :
+                - 40W
+                - Manana 8 :
+                - Utilisation : heure debut , heure fin
+
+        + Manindry boutton oe propse moi :
+            + Bataina veo le panneau eo akaikiny le appareil
+
+    - Base de donnée 
+        + Access : produit (panneau , batterie) ;
+        + Mysql : client , devis ;
